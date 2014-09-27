@@ -44,8 +44,8 @@ and Blueprint http://www.blueprintcss.org/
 	12.1 Captions
 	12.2 Galleries
 --------------------------------------------------------------*/
-@import "variables-site/variables-site";
-@import "mixins/mixins-master";
+@import "variables";
+@import "mixins";
 
 /*--------------------------------------------------------------
 1.0 Reset
@@ -55,22 +55,22 @@ and Blueprint http://www.blueprintcss.org/
 /*--------------------------------------------------------------
 2.0 Typography
 --------------------------------------------------------------*/
-@import "typography/typography";
+@import "typography";
 
 /*--------------------------------------------------------------
 3.0 Elements
 --------------------------------------------------------------*/
-@import "elements/elements";
+@import "elements";
 
 /*--------------------------------------------------------------
 4.0 Forms
 --------------------------------------------------------------*/
-@import "forms/forms";
+@import "forms";
 
 /*--------------------------------------------------------------
 5.0 Navigation
 --------------------------------------------------------------*/
-@import "navigation/navigation";
+@import "navigation";
 
 /*--------------------------------------------------------------
 6.0 Accessibility
